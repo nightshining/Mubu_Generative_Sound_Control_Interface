@@ -23,7 +23,7 @@ Setup:
 
 1. Clone this repo
 2. Download and install Processing 
-3. Download and install MaxMSP
+3. Download and install MaxMSP and MuBu via the Max package installer 
 4. open **_~/Documents/GitHub/Mubu_Generative_Sound_Control_Interface/Generative_Sound_Control_Interface/Generative_Sound_Control_Interface.pde_** in Processing and click 'Run' 
 5. open **_~/Documents/GitHub/Mubu_Generative_Sound_Control_Interface/MuBu_Synth.maxpat_** in MaxMSP click on the speaker icon to start audio (make sure your system output audio is set to speakers upon opening the patch). Click the red rectangle (top-left) to load a sound file.
 6. The OSC data is running locally "127.0.0.1" on port 7400. If you have something else running already on this port it may not connect. 
