@@ -38,4 +38,10 @@ Interestering for desiging sounds like crackling fire, electric, abstract partic
 
 
 
+![alt text](screenshots/Interface2.gif)
+![alt text](screenshots/Interface1.gif)
+
+
+
+
 
